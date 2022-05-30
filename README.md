@@ -48,9 +48,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-
-
-
-
 <h2>Contact with</h2>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sla5962@gmail.com)](mailto:sla5962@gmail.com)
+
+<div>
+
+

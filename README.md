@@ -40,7 +40,7 @@
 
 <br><br>
  
- <h3>Contact Me</h3>
+ <h2>편하게 연락주세요~</h2>
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sla5962@gmail.com)](mailto:sla5962@gmail.com)
 </div>

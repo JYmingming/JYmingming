@@ -1,5 +1,6 @@
 
-  ### hello World !!👋
+  ### hello World !!
+  ### 신입은 신입답게 👋
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JYmingming)](https://github.com/anuraghazra/github-readme-stats)
 

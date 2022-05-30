@@ -18,35 +18,40 @@ Here are some ideas to get you started:
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
+### 주 사용 언어 - 못하는거 빼곤 다 만들줄 암
+![C/C++](https://img.shields.io/badge/LANG-C%2FC%2B%2B-blue)
+![GO](https://img.shields.io/badge/LANG-GO-blue)
+![ASM](https://img.shields.io/badge/LANG-ASM-blue)
 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
+### 부 사용 언어 - 삐걱거리긴 해도 뭔가 만들줄은 암
+![JAVA](https://img.shields.io/badge/LANG-JAVA-green)
+![JAVASCRIPT](https://img.shields.io/badge/LANG-JAVASCRIPT-green)
+![PYTHON](https://img.shields.io/badge/LANG-PYTHON-green)
+![CS](https://img.shields.io/badge/LANG-C%23-green)
+
+### 할줄 아는 언어 - 그지 같이 짜도 할건 다함
+![PHP](https://img.shields.io/badge/LANG-PHP-lightgrey)
+![ASP](https://img.shields.io/badge/LANG-ASP-lightgrey)
+![PERL](https://img.shields.io/badge/LANG-PERL-lightgrey)
+![FORTRAN](https://img.shields.io/badge/LANG-FORTRAN-lightgrey)
+
+### 주력 CPU 아키텍처
+![X86](https://img.shields.io/badge/ARCH-X86-blue)
+![AMD64](https://img.shields.io/badge/ARCH-AMD64-blue)
+![ARM](https://img.shields.io/badge/ARCH-ARM-blue)
+![ARM64](https://img.shields.io/badge/ARCH-ARM64-blue)
+
+### 알만큼은 아는 CPU 아키텍처
+![MIPS](https://img.shields.io/badge/ARCH-MIPS-green)
+![POWERPC](https://img.shields.io/badge/ARCH-POWERPC-green)
+
+### 개발은 언제부터?
+![BASIC](https://img.shields.io/badge/SINCE_1987-BASIC-red)
+![C](https://img.shields.io/badge/SINCE_1989-C/C++-red)
+![ASM](https://img.shields.io/badge/SINCE_1991-ASM-red)
+![GO](https://img.shields.io/badge/SINCE_2009-GO-red)  
+
+
 
 <br><br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sla5962@gmail.com)](mailto:sla5962@gmail.com)

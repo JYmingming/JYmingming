@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </div>
 <h2>Contact with</h2>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sla5962@gmail.com)](mailto:sla5962@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 <div>
 
 

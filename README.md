@@ -2,9 +2,11 @@
   ### hello World !!
   ### 신입은 신입답게 👋
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JYmingming)](https://github.com/anuraghazra/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/haesoo9410) 
 
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sla5962@gmail.com)](mailto:sla5962@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/youngming22) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JYmingming)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <h1>📚 STACKS</h1>
@@ -42,7 +44,7 @@
  
  <h2>편하게 연락주세요~</h2>
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sla5962@gmail.com)](mailto:sla5962@gmail.com)
+
 </div>
 
 

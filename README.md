@@ -1,5 +1,5 @@
 
-`hello World!` 신입은 신입답게 👋
+`hello World!` 신입은 신입답게👋
 
 
 

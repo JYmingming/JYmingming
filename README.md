@@ -1,7 +1,7 @@
 
 `hello World!`신입은 신입답게 👋
 
-[history](8-16)개발자로 첫출근 
+8.16 - 첫출근 
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJYmingming&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
